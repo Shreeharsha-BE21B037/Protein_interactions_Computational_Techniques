@@ -1,0 +1,53 @@
+List of protein-ligand interactions
+-----------------------------------
+
+
+
+
+PDB code: Lopinavir
+==============
+
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no  name name  no  Chain        no  name name  no  Chain  Distance
+    1    63  CA  ALA   28    A    ---    46  O50 ZIN    1    A     3.374
+    2    67  N   GLY   48    A    ---    43  C47 ZIN    1    A     3.525
+    3    67  N   GLY   48    A    ---    42  C46 ZIN    1    A     3.751
+    4   133  CB  ILE   47    A    ---    42  C46 ZIN    1    A     3.872
+    5    76  CG1 VAL   84    A    ---    39  C43 ZIN    1    A     3.849
+    6    66  CB  ALA   28    A    ---    39  C43 ZIN    1    A     3.689
+    7    77  CG2 VAL   84    A    ---    38  C42 ZIN    1    A     3.642
+    8   123  ND2 ASN   25    A    ---    38  C42 ZIN    1    A     3.632
+    9    66  CB  ALA   28    A    ---    36  C39 ZIN    1    A     3.809
+   10    53  CG2 VAL   84    B    ---    32  C35 ZIN    1    A     3.679
+   11    53  CG2 VAL   84    B    ---    31  C34 ZIN    1    A     3.579
+   12   155  O   ALA   82    B    ---    31  C34 ZIN    1    A     3.880
+   13   116  CD  PRO   81    B    ---    30  C33 ZIN    1    A     3.768
+   14   114  CB  PRO   81    B    ---    30  C33 ZIN    1    A     3.779
+   15   143  ND2 ASN   25    B    ---    26  C29 ZIN    1    A     3.643
+   16   128  O   GLY   27    A    ---    26  C29 ZIN    1    A     3.611
+   17   151  OG1 THR   80    B    ---    20  C21 ZIN    1    A     3.433
+   18    53  CG2 VAL   84    B    ---    19  C20 ZIN    1    A     3.737
+   19    51  CB  VAL   84    B    ---    19  C20 ZIN    1    A     3.900
+   20    97  CG2 VAL   32    B    ---    19  C20 ZIN    1    A     3.732
+   21    53  CG2 VAL   84    B    ---    18  C19 ZIN    1    A     3.569
+   22    52  CG1 VAL   84    B    ---    18  C19 ZIN    1    A     3.784
+   23    51  CB  VAL   84    B    ---    18  C19 ZIN    1    A     3.692
+   24    82  CB  ALA   28    B    ---    12  O12 ZIN    1    A     3.821
+   25    79  CA  ALA   28    B    ---    12  O12 ZIN    1    A     3.518
+   26   107  CA  GLY   48    B    ---     7  C7  ZIN    1    A     3.763
+   27   106  N   GLY   48    B    ---     7  C7  ZIN    1    A     3.844
+   28   105  CD1 ILE   47    B    ---     5  C5  ZIN    1    A     3.518
+   29   105  CD1 ILE   47    B    ---     4  C4  ZIN    1    A     3.889
+   30    97  CG2 VAL   32    B    ---     4  C4  ZIN    1    A     3.817
+   31    89  OD1 ASP   30    B    ---     3  C3  ZIN    1    A     3.563
+   32    87  CB  ASP   30    B    ---     3  C3  ZIN    1    A     3.884
+   33    60  OD1 ASP   29    B    ---     1  C1  ZIN    1    A     3.538
+   34    59  CG  ASP   29    B    ---     1  C1  ZIN    1    A     3.687
+   35    58  CB  ASP   29    B    ---     1  C1  ZIN    1    A     3.808
+   36    54  N   ASP   29    B    ---     1  C1  ZIN    1    A     3.810

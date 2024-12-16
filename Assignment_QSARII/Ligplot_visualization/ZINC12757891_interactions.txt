@@ -1,0 +1,48 @@
+List of protein-ligand interactions
+-----------------------------------
+
+
+
+
+PDB code: ZINC12757891
+==============
+
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no  name name  no  Chain        no  name name  no  Chain  Distance
+    1    93  O   GLY   27    A    ---    33  C33 <0>    1    d     3.885
+    2   127  CD2 LEU   23    B    ---    32  C32 <0>    1    d     3.794
+    3    50  CG2 VAL   84    B    ---    31  C31 <0>    1    d     3.135
+    4    64  CD  PRO   81    B    ---    29  C29 <0>    1    d     3.853
+    5    57  OG1 THR   80    B    ---    29  C29 <0>    1    d     3.726
+    6    64  CD  PRO   81    B    ---    28  C28 <0>    1    d     3.829
+    7    64  CD  PRO   81    B    ---    27  C27 <0>    1    d     3.792
+    8    57  OG1 THR   80    B    ---    27  C27 <0>    1    d     3.468
+    9    57  OG1 THR   80    B    ---    26  C26 <0>    1    d     3.532
+   10   134  CG2 VAL   32    B    ---    26  C26 <0>    1    d     3.866
+   11    89  CB  ALA   28    B    ---    23  N23 <0>    1    d     3.835
+   12    50  CG2 VAL   84    B    ---    22  N22 <0>    1    d     3.802
+   13    89  CB  ALA   28    B    ---    22  N22 <0>    1    d     3.770
+   14    50  CG2 VAL   84    B    ---    21  C21 <0>    1    d     3.678
+   15    50  CG2 VAL   84    B    ---    20  C20 <0>    1    d     3.809
+   16    83  ND2 ASN   25    B    ---    20  C20 <0>    1    d     3.612
+   17    83  ND2 ASN   25    B    ---    19  C19 <0>    1    d     3.766
+   18    74  CA  GLY   48    A    ---    10  C10 <0>    1    d     3.783
+   19    73  N   GLY   48    A    ---    10  C10 <0>    1    d     3.810
+   20    43  CD1 ILE   47    A    ---    10  C10 <0>    1    d     3.712
+   21    41  CG1 ILE   47    A    ---    10  C10 <0>    1    d     3.704
+   22   112  CG2 VAL   54    A    ---     9  C9  <0>    1    d     3.850
+   23    41  CG1 ILE   47    A    ---     9  C9  <0>    1    d     3.876
+   24   116  O   PRO   79    A    ---     7  C7  <0>    1    d     3.513
+   25    43  CD1 ILE   47    A    ---     6  C6  <0>    1    d     3.757
+   26    43  CD1 ILE   47    A    ---     5  C5  <0>    1    d     3.561
+   27    43  CD1 ILE   47    A    ---     3  N3  <0>    1    d     3.755
+   28   105  CG2 VAL   32    A    ---     3  N3  <0>    1    d     3.695
+   29    68  O   ASP   30    A    ---     1  C1  <0>    1    d     3.465
+   30    65  N   ASP   30    A    ---     1  C1  <0>    1    d     3.636
+   31    98  CB  ALA   28    A    ---     1  C1  <0>    1    d     3.739

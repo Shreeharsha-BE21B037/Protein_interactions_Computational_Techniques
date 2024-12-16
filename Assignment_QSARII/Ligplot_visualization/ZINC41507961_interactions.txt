@@ -1,0 +1,52 @@
+List of protein-ligand interactions
+-----------------------------------
+
+
+
+
+PDB code: ZINC41507961
+==============
+
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no  name name  no  Chain        no  name name  no  Chain  Distance
+    1   110  CB  THR   80    A    ---    37 Cl1  non    1    d     3.640
+    2    85  CD1 ILE   47    A    ---    37 Cl1  non    1    d     3.636
+    3    57  CG2 VAL   32    A    ---    37 Cl1  non    1    d     3.627
+    4    56  CG1 VAL   32    A    ---    37 Cl1  non    1    d     3.652
+    5    55  CB  VAL   32    A    ---    37 Cl1  non    1    d     3.728
+    6   119  CG2 VAL   32    B    ---    35  C28 non    1    d     3.736
+    7    45  CD1 ILE   47    B    ---    34  C27 non    1    d     3.755
+    8    44  CG2 ILE   47    B    ---    34  C27 non    1    d     3.768
+    9    42  CB  ILE   47    B    ---    34  C27 non    1    d     3.638
+   10    44  CG2 ILE   47    B    ---    33  C26 non    1    d     3.837
+   11    42  CB  ILE   47    B    ---    33  C26 non    1    d     3.892
+   12    96  OD1 ASP   30    B    ---    33  C26 non    1    d     3.746
+   13    42  CB  ILE   47    B    ---    32  C25 non    1    d     3.874
+   14    96  OD1 ASP   30    B    ---    32  C25 non    1    d     3.808
+   15    64  CG2 VAL   84    A    ---    26  C19 non    1    d     3.838
+   16    98  N   ASP   29    A    ---    24  C17 non    1    d     3.791
+   17    50  CB  ALA   28    A    ---    24  C17 non    1    d     3.857
+   18    47  CA  ALA   28    A    ---    24  C17 non    1    d     3.631
+   19    85  CD1 ILE   47    A    ---    21  C14 non    1    d     3.671
+   20    57  CG2 VAL   32    A    ---    20  C13 non    1    d     3.752
+   21    64  CG2 VAL   84    A    ---    17  C10 non    1    d     3.596
+   22    63  CG1 VAL   84    A    ---    17  C10 non    1    d     3.896
+   23    76  ND2 ASN   25    A    ---    17  C10 non    1    d     3.517
+   24    76  ND2 ASN   25    A    ---    16  C9  non    1    d     3.826
+   25    44  CG2 ILE   47    B    ---    13  O6  non    1    d     3.790
+   26    42  CB  ILE   47    B    ---    13  O6  non    1    d     3.695
+   27    89  O   GLY   27    B    ---    12  C6  non    1    d     3.479
+   28    89  O   GLY   27    B    ---    10  C5  non    1    d     3.750
+   29    50  CB  ALA   28    A    ---     7  O3  non    1    d     3.690
+   30    47  CA  ALA   28    A    ---     7  O3  non    1    d     3.836
+   31    69  CB  ALA   28    B    ---     6  C3  non    1    d     3.668
+   32    66  CA  ALA   28    B    ---     6  C3  non    1    d     3.787
+   33    64  CG2 VAL   84    A    ---     5  O2  non    1    d     3.791
+   34    69  CB  ALA   28    B    ---     4  C2  non    1    d     3.822
+   35    69  CB  ALA   28    B    ---     2  N1  non    1    d     3.712

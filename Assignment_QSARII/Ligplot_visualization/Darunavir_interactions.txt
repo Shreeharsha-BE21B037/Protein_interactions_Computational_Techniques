@@ -1,0 +1,66 @@
+List of protein-ligand interactions
+-----------------------------------
+
+
+
+
+PDB code: Darunavir
+==============
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no  name name  no  Chain        no  name name  no  Chain  Distance
+    1    36  N41 ZIN    1    A    ---    70  O   GLY   52    B     3.036
+    2    36  N41 ZIN    1    A    ---    42  O   ILE   50    B     2.939
+
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no  name name  no  Chain        no  name name  no  Chain  Distance
+    1    41  C   ILE   50    B    ---    36  N41 ZIN    1    A     3.632
+    2    40  CA  ILE   50    B    ---    36  N41 ZIN    1    A     3.832
+    3    78  C   GLY   49    B    ---    36  N41 ZIN    1    A     3.681
+    4    77  CA  GLY   49    B    ---    36  N41 ZIN    1    A     3.864
+    5    65  C   GLY   48    B    ---    36  N41 ZIN    1    A     3.750
+    6    64  CA  GLY   48    B    ---    36  N41 ZIN    1    A     3.694
+    7    42  O   ILE   50    B    ---    35  C40 ZIN    1    A     3.871
+    8    76  N   GLY   49    B    ---    35  C40 ZIN    1    A     3.843
+    9    64  CA  GLY   48    B    ---    35  C40 ZIN    1    A     3.645
+   10    64  CA  GLY   48    B    ---    34  C39 ZIN    1    A     3.779
+   11    86  CD  PRO   81    B    ---    31  O36 ZIN    1    A     3.801
+   12    85  CG  PRO   81    B    ---    31  O36 ZIN    1    A     3.642
+   13    87  N   ASP   29    B    ---    22  C25 ZIN    1    A     3.690
+   14   119  O   GLY   27    B    ---    22  C25 ZIN    1    A     3.476
+   15    75  CB  ALA   28    B    ---    19  O21 ZIN    1    A     3.453
+   16    72  CA  ALA   28    B    ---    19  O21 ZIN    1    A     3.649
+   17    58  O   ASP   30    B    ---    16  C18 ZIN    1    A     3.460
+   18    55  N   ASP   30    B    ---    16  C18 ZIN    1    A     3.701
+   19    75  CB  ALA   28    B    ---    16  C18 ZIN    1    A     3.599
+   20    61  OD1 ASP   30    B    ---    15  C17 ZIN    1    A     3.544
+   21    59  CB  ASP   30    B    ---    15  C17 ZIN    1    A     3.590
+   22    55  N   ASP   30    B    ---    15  C17 ZIN    1    A     3.405
+   23    87  N   ASP   29    B    ---    15  C17 ZIN    1    A     3.754
+   24    61  OD1 ASP   30    B    ---    14  C16 ZIN    1    A     3.449
+   25    54  CD1 ILE   47    B    ---    13  C15 ZIN    1    A     3.651
+   26    53  CG2 ILE   47    B    ---    13  C15 ZIN    1    A     3.882
+   27    51  CB  ILE   47    B    ---    13  C15 ZIN    1    A     3.493
+   28    54  CD1 ILE   47    B    ---    12  C14 ZIN    1    A     3.745
+   29   101  CG2 VAL   32    B    ---    11  C13 ZIN    1    A     3.884
+   30    86  CD  PRO   81    B    ---     4  C4  ZIN    1    A     3.598
+   31   115  OG1 THR   80    B    ---     3  C3  ZIN    1    A     3.571
+   32   113  CB  THR   80    B    ---     3  C3  ZIN    1    A     3.695
+   33   105  O   PRO   79    B    ---     3  C3  ZIN    1    A     3.831
+   34    54  CD1 ILE   47    B    ---     3  C3  ZIN    1    A     3.510
+   35   100  CG1 VAL   32    B    ---     3  C3  ZIN    1    A     3.656
+   36    54  CD1 ILE   47    B    ---     2  C2  ZIN    1    A     3.785
+   37   105  O   PRO   79    B    ---     1  C1  ZIN    1    A     3.836
+   38    54  CD1 ILE   47    B    ---     1  C1  ZIN    1    A     3.695
